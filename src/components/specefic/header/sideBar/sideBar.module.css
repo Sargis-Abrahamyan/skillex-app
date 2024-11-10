@@ -1,0 +1,32 @@
+.overlayBackground {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 999;
+  width: 100%;
+  min-height: 100vh;
+  opacity: 0;
+  overflow: hidden;
+  transform: translateX(100%);
+  transition: opacity 0.83s, transform 0.83s ease;
+  background-color: var(--opacity-color);
+}
+
+.activeSideBar {
+  opacity: 1;
+  transform: translateX(0);
+  transition: opacity 0.83s, transform 0.83s ease;
+}
+
+.sideBar {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 100%;
+  max-width: 20rem;
+  min-height: 100vh;
+  background-color: var(--secondary-color);
+  box-shadow: var(--primary-box-showdow);
+  padding: 0 0.5rem 0.625rem 0.5rem;
+  gap: 0.5rem;
+}

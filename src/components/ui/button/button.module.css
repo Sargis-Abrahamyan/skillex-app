@@ -1,0 +1,24 @@
+.button {
+  width: 100%;
+  padding: 0.47rem;
+  border-radius: 9px;
+  cursor: pointer;
+  font-family: 'Host Grotesk', sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.1rem;
+  position: relative;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.allFilters {
+  max-width: 7.5rem;
+  background-color: var(--secondary-color);
+  color: var(--primary-color);
+}
+
+.showFilters {
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
+}

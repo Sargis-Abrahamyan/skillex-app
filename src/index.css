@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Host+Grotesk:ital,wght@0,300..800;1,300..800&display=swap');
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Host Grotesk', sans-serif;
+  font-optical-sizing: auto;
+
+}
+
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: 0;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+:root {
+  --breakpoint-desktop: 1024px;
+  --breakpoint-tablet: 768px;
+  --breakpoint-mobile: 480px;
+  --primary-color: #ff4545;
+  --secondary-color: #fff;
+  --primary-box-showdow: 4px 0 6px rgba(0, 0, 0, 0.2), -4px 0 6px rgba(0, 0, 0, 0.2);
+  --opacity-color: rgba(0, 0, 0, 0.3);
+}
+
+.mainGridLayout {
+  max-width: 1320px;
+  min-height: calc(100vh - 160px);
+  margin: auto;
+  padding: 1rem;
+}
+
+
+

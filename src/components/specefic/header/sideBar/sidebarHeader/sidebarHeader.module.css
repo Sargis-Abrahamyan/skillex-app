@@ -1,0 +1,12 @@
+.sidebarHeader {
+  padding: 1.25rem 0.55rem;
+  box-shadow: var(--primary-box-showdow);
+  border-radius: 0 0 14px 14px;
+}
+.closeButton {
+  cursor: pointer;
+}
+
+.sidebarTitle {
+  color: var(--primary-color);
+}

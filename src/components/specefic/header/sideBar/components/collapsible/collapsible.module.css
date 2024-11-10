@@ -1,0 +1,25 @@
+.collapsibleBlock {
+  background-color: var(--secondary-color);
+  box-shadow: var(--primary-box-showdow);
+  padding: 10px;
+  border-radius: 8px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.collapsibleTitle {
+  cursor: pointer;
+}
+
+.collapsibleContent {
+  max-height: 0;
+  opacity: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease-in-out, opacity 0.3s ease-in-out;
+
+}
+
+.collapsibleContent.active {
+  max-height: 500px; /* Or any max height that fits your content */
+  opacity: 1;
+}

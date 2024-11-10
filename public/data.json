@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "brand": "Brand A",
+    "price": 99.99,
+    "rating": 4.5,
+    "imageUrl": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGYtczczLXBhaS0xNjMtbW9ja3VwLmpwZw.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "brand": "Brand B",
+    "price": 49.99,
+    "rating": 4.0,
+    "imageUrl": "https://m.media-amazon.com/images/I/81FzSswwCVL.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Running Shoes",
+    "category": "Footwear",
+    "brand": "Brand C",
+    "price": 59.99,
+    "rating": 4.2,
+    "imageUrl": "https://www.marketresearchintellect.com/images/blogs/beyond-the-pavement-exploring-the-science-of-running-shoes.webp"
+  },
+  {
+    "id": 4,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "brand": "Brand D",
+    "price": 499.99,
+    "rating": 4.8,
+    "imageUrl": "https://ikall.in/wp-content/uploads/2023/06/51sJmHfw92L._SL1000_-600x600.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Leather Jacket",
+    "category": "Clothing",
+    "brand": "Brand E",
+    "price": 199.99,
+    "rating": 4.7,
+    "imageUrl": "https://devotedstore.com/cdn/shop/files/21.png?v=1711236966"
+  },
+  {
+    "id": 6,
+    "name": "Leather Jacket",
+    "category": "Clothing",
+    "brand": "Brand E",
+    "price": 199.99,
+    "rating": 4.7,
+    "imageUrl": "https://devotedstore.com/cdn/shop/files/21.png?v=1711236966"
+  },
+  {
+    "id": 7,
+    "name": "Leather Jacket",
+    "category": "Clothing",
+    "brand": "Brand E",
+    "price": 199.99,
+    "rating": 4.7,
+    "imageUrl": "https://devotedstore.com/cdn/shop/files/21.png?v=1711236966"
+  },
+  {
+    "id": 8,
+    "name": "Leather Jacket",
+    "category": "Clothing",
+    "brand": "Brand E",
+    "price": 199.99,
+    "rating": 4.7,
+    "imageUrl": "https://devotedstore.com/cdn/shop/files/21.png?v=1711236966"
+  }
+]
